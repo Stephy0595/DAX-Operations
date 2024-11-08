@@ -2,7 +2,7 @@
 
 This repository contains DAX operations for analysing order data using Power BI. Key operations focus on calculating various metrics related to shipping and sales performance.
 
-# Key Metrics:
+# Key Metrics
 
 1. DAX Measures
 
